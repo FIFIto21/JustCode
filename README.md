@@ -1,2 +1,1 @@
-👻
-![GAfpaWuW0AAIOh4](https://github.com/FIFIto21/JustCode/assets/77754346/785828fd-dd27-4a9a-96b9-5543fcbe46c5)
+``![RandyEgg](https://github.com/FIFIto21/JustCode/assets/77754346/4d226f76-ddef-411c-8097-9b4836e8378d)
