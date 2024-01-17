@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <fstream>
 #include <sstream>
-#define ADMIN 50
+#define ADMIN 0
 using std::string;
 
 bool GameOver;
